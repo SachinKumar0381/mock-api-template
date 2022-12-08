@@ -1,0 +1,24 @@
+{
+    "user": [
+      {
+        "username": "sachink",
+        "avatar": "https://i.pravatar.cc/150?img=67",
+        "fullname": "sachin kumar",
+        "email": "sachinkuom0591998@gmail.com",
+        "password": "1234",
+        "id": 1
+      }
+    ],
+    "posts": [
+      {
+        "text": "sachin",
+        "cat": "https://media1.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif?cid=007709f19hjrafgmt39qfrxzb56t21kndp1hxmz4bfaz7vtw&rid=giphy.gif&ct=g",
+        "id": 1
+      },
+      {
+        "text": "sachind",
+        "cat": "https://media0.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif?cid=007709f1eh6imb10bfujtbz8qfo29b8e7hy14hzcc6a2pasy&rid=giphy.gif&ct=g",
+        "id": 2
+      }
+    ]
+  }
